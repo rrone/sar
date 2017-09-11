@@ -1,0 +1,8 @@
+vendor/
+log/*
+cache/*
+var
+public
+.idea
+LICENSE
+README.md
